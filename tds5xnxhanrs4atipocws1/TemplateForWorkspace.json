@@ -523,7 +523,7 @@
 					},
 					"KeyVaultName": {
 						"type": "string",
-						"defaultValue": "tds5xnxhanrs4atipocws1p1"
+						"defaultValue": "kvtds5xnxhanrs4atipoc"
 					},
 					"datalakeAccountName": {
 						"type": "string",
