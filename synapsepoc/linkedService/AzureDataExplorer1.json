@@ -1,0 +1,15 @@
+{
+	"name": "AzureDataExplorer1",
+	"properties": {
+		"annotations": [],
+		"type": "AzureDataExplorer",
+		"typeProperties": {
+			"endpoint": "https://kdataexplorer.northeurope.kusto.windows.net",
+			"database": "DB1"
+		},
+		"connectVia": {
+			"referenceName": "AutoResolveIntegrationRuntime",
+			"type": "IntegrationRuntimeReference"
+		}
+	}
+}
